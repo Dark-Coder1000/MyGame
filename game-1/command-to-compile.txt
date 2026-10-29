@@ -1,3 +1,0 @@
-g++ src/*.cpp src/**/*.cpp -o game-executable/game1 -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-
-./game-executable/game1
